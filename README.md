@@ -46,3 +46,20 @@ Relacionamento através de id_produto em Pedido
 
 Prints das consultas realizadas SGBD: MySQL (XAMPP)
 
+lista clientes inativos ultimos 6 meses
+![Minha imagem](lista_clientes_inativos_ultimos_6meses.png)
+
+faturamento mensal 2023
+![Minha imagem](consultas/faturamento_mensal_2023.png)
+
+Clientes Premium Top 10 por Valor Gasto
+![Minha imagem](consultas/Clientes_Premium_Top_10_por_Valor_Gasto.png)
+
+analise produtos lucratividade ranking
+![Minha imagem](analise_produtos_lucratividade_ranking.png)
+
+alerta estoque critico baixa rotatividade
+![Minha imagem](alerta_estoque_critico_baixa_rotatividade.png)
+
+Relatório de Pedidos Recentes: Clientes, Produtos e Datas Últimos 25 Registros
+![Minha imagem](image.png)

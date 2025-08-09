@@ -44,6 +44,8 @@ Um produto pode aparecer em vários pedidos
 
 Relacionamento através de id_produto em Pedido
 
+O modelo foi normalizado até a Terceira Forma Normal (3FN), garantindo ausência de redundâncias e dependências transitivas
+
 Prints das consultas realizadas SGBD: MySQL (XAMPP)
 
 lista clientes inativos ultimos 6 meses
